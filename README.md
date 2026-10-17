@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Syed%20Muhammad%20Imran%20Rizvi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Agentic%20AI%20%7C%20Multi-Tenant%20SaaS&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="./1786780390823.jpg" width="100%" alt="Syed Muhammad Imran Rizvi - Full Stack Engineer banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=700&lines=Building+Multi-Tenant+AI+Chat+SaaS;Next.js+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;RAG+Pipelines+%26+Agentic+AI+Systems;ERP+%7C+CRM+%7C+SAP+B1+Finance+Automation;pgvector+%7C+PostgreSQL+%7C+MongoDB" alt="Typing SVG" />
