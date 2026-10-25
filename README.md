@@ -1,10 +1,3 @@
-<!-- ============================================================
-  GitHub Profile README
-  1. Replace USERNAME below with your exact GitHub username
-     (find/replace "Syed_Muhammad_Ali_Rizvi15" if that is not it).
-  2. Save this file as README.md inside a repo named exactly like your username.
-============================================================ -->
-
 <div align="center">
 
 <img src="./1786780390823.jpg" width="100%" alt="Syed Muhammad Imran Rizvi - Full Stack Engineer banner"/>
@@ -15,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Syed_Muhammad_Ali_Rizvi15&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/Syed_Muhammad_Ali_Rizvi15?label=Followers&style=for-the-badge&logo=github&color=2c5364)](https://github.com/Syed_Muhammad_Ali_Rizvi15?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Syed_Muhammad_Ali_Rizvi15?label=Total%20Stars&style=for-the-badge&logo=github&color=f7df1e&labelColor=000000)](https://github.com/Syed_Muhammad_Ali_Rizvi15?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=simranrizvi&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/simranrizvi?label=Followers&style=for-the-badge&logo=github&color=2c5364)](https://github.com/simranrizvi?tab=followers)
+[![Stars](https://img.shields.io/github/stars/simranrizvi?label=Total%20Stars&style=for-the-badge&logo=github&color=f7df1e&labelColor=000000)](https://github.com/simranrizvi?tab=repositories)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-imran-rizvi)
 [![Gmail](https://img.shields.io/badge/Email-imranrizvi648@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imranrizvi648@gmail.com)
@@ -204,10 +197,10 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Syed_Muhammad_Ali_Rizvi15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed_Muhammad_Ali_Rizvi15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=simranrizvi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranrizvi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Syed_Muhammad_Ali_Rizvi15&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=simranrizvi&theme=tokyonight&hide_border=true" alt="streak"/>
 
 </div>
 
@@ -217,7 +210,7 @@ flowchart LR
 
 <div align="center">
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Syed_Muhammad_Ali_Rizvi15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=simranrizvi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -227,7 +220,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Syed_Muhammad_Ali_Rizvi15&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simranrizvi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
 
 </div>
 
